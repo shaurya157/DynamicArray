@@ -1,1 +1,1 @@
-# DynamicArray
+# Dynamic Array
